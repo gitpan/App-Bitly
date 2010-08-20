@@ -1,0 +1,9 @@
+bin/bitly
+Makefile.PL
+MANIFEST
+t/010_run.t
+t/950_pod.t
+t/960_pod_coverage.t
+Changes
+README
+META.yml                                 Module meta-data (added by MakeMaker)
